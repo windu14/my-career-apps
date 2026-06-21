@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "104515210923",
+    "project_id": "windu-s-database",
+    "storage_bucket": "windu-s-database.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104515210923:android:63fd73a613a0b54ba4f1ee",
+        "android_client_info": {
+          "package_name": "com.example.myjobs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf9kbGJhiUERIxHkWyfC3GrMK5iMJM8fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104515210923:android:e2309749669c7898a4f1ee",
+        "android_client_info": {
+          "package_name": "com.windulabs.wikiwin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf9kbGJhiUERIxHkWyfC3GrMK5iMJM8fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
